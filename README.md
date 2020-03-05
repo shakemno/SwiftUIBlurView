@@ -1,1 +1,1 @@
-# `SwiftUIBlurView` has moved [here](https://github.com/danielsaidi/SwiftUIKit) and is now a part of `SwiftUIKit`.
+# `SwiftUIBlurView` has moved and is now a part of [SwiftUIKit](https://github.com/danielsaidi/SwiftUIKit).
